@@ -1,0 +1,7 @@
+[2026-11-07T13:10:54Z] === AST ITERATION 1 START | repo=ansible-collections/ansible.proxmox sha=efa0d5bd ===
+[2026-11-07T13:10:54Z] [iter=1] PHASE START: ast repo=ansible-collections/ansible.proxmox sha=efa0d5bd
+[2026-11-07T13:10:54Z] [iter=1] Building AST aggregate chunks
+[2026-11-07T13:11:14Z] [iter=1] AST chunks built count=1 triples=329977
+[2026-11-07T13:11:14Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/efa0d5bd4e7149e7d7aa6c2e5ad99e9315d338b8/.complete
+[2026-11-07T13:11:14Z] [iter=1] PHASE END: ast elapsed_s=21 elapsed_min=0.3
+[2026-11-07T13:11:14Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
